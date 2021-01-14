@@ -10,9 +10,7 @@ export class ProjectsSection extends Component{
         <div class="top-padding">
             <div class="white-text">
                 <h4>PROJECTS</h4>
-                <p>
-                    under construction
-                </p>
+                
             </div>
             </div>
         );
