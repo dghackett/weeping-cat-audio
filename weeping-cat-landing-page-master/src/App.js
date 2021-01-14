@@ -14,8 +14,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <br/>
-      <br/>
       </header>
       {/* <div>
         <Socials />
@@ -24,11 +22,9 @@ function App() {
         <Title className="top" />
       </div>
       <Container>
-          <Col lg={8} md={8} sm={12} xs={12}>
             <ReelSection />
             <ProjectsSection />
             <BioSection />
-          </Col>
       </Container>
     </div>
   );

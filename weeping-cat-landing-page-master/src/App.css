@@ -2,7 +2,7 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: white;  
+  background-color: black;  
 }
 
 .App-logo {
@@ -23,4 +23,12 @@
   left: 0;
   z-index: 999;
   width: 100%;
+} 
+
+.top-padding{
+    padding-top: 5%;
+}
+
+.white-text{
+    color: ghostwhite;
 }
