@@ -1,31 +1,16 @@
-.project-padding{
-    padding: %10;
-}
-
 .project-image{
     width: 75%;
 }
 
-.header {
-    text-align: center;
-}
-
-.test {
-    border-style: solid;
-    border-color: skyblue;
+.project-element-spacing {
     padding-top: 10%;
     padding-bottom: 25%;
     padding-right: 15px;
     padding-left: 15px;
 }
 
-.test-alt {
-   border-style: solid;
-   border-color: orangered;
-}
-
 .center-element {
-    display:flex; /*<-- allows the magic*/
+  display:flex; /*<-- allows the magic*/
   margin:auto;
   align-items:center; /*<-- the magic*/
   justify-content:center; /*<-- more magic*/
@@ -34,10 +19,6 @@
 .flex-container{
     display:flex;
     flex-direction:column;
-}
-
-.flex-grow {
-    flex: 1 0 auto;
 }
 
 .text-block{

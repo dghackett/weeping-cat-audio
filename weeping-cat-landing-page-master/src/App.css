@@ -26,9 +26,23 @@
 } 
 
 .top-padding{
-    padding-top: 5%;
+    padding-top: 15%;
 }
 
 .white-text{
     color: ghostwhite;
+}
+
+.header {
+    text-align: center;
+}
+
+.test {
+    border-style: solid;
+    border-color: skyblue;
+}
+
+.test-alt {
+   border-style: solid;
+   border-color: orangered;
 }

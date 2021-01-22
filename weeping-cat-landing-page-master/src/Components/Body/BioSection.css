@@ -1,0 +1,19 @@
+.portrait-image {
+    width: 75%;
+}
+
+.center-element {
+  display:flex; /*<-- allows the magic*/
+  margin:auto;
+  /*align-items:center;*/ /*<-- the magic*/
+  justify-content:center; /*<-- more magic*/
+}
+
+.bio-padding {
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+
+.adjust-padding {
+    padding-top: 10%;
+}
