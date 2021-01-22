@@ -13,7 +13,7 @@ export class Title extends Component{
                         <Col lg={4}
                      md={4}
                      sm={8}
-                     xs={12}
+                     xs={8}
                      className="title-name-container">
                         <div className="">
                             <img src={weepingCat} alt="weepingCat" className="title-name"/>
