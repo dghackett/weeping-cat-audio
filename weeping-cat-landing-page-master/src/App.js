@@ -8,6 +8,7 @@ import { ReelSection } from "./Components/Body/ReelSection.js";
 import { ProjectsSection } from "./Components/Body/ProjectsSection.js";
 import { BioSection } from "./Components/Body/BioSection.js";
 import { Socials } from "./Components/Socials/Socials.js";
+import { Menu } from "./Components/Title/Menu.js";
 import { Container, Col, Row } from "react-bootstrap";
 
 function App() {
@@ -18,14 +19,12 @@ function App() {
       {/* <div>
         <Socials />
       </div> */}
-      <div>
-        <Title className="top" />
-      </div>
-      <Container>
-            <ReelSection />
-            <ProjectsSection />
-            <BioSection />
-      </Container>
+            <Title className="top" />
+            <Menu/>
+            <a id=""><ReelSection /></a>
+            <a id="projects"><ProjectsSection /></a>
+            <a id="about-me"><BioSection /></a>
+      <div class="bottom-padding"/>
     </div>
   );
 }

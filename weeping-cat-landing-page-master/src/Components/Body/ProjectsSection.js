@@ -3,16 +3,16 @@ import '../../App.css';
 import React from 'react';
 import{ Component } from 'react'
 import { Container, Col, Row } from "react-bootstrap";
-import orbit from '../../images/Projects/project_image_orbit.png';
-import crayonFace from '../../images/Projects/project_image_crayonface.png';
+import orbit from '../../images/Projects/project_image_orbit_rounded.png';
+import crayonFace from '../../images/Projects/project_image_crayonface_rounded_428x428.png';
 import mubu from '../../images/Projects/project_image_mubu.png';
 
 export class ProjectsSection extends Component{ 
     render(){
         return(
-            <div class="white-text top-padding">
+            <div class="white-text project-section-padding">
             
-                <h4 class="header">projects</h4>            
+                <h4 class="header">PROJECTS</h4>            
             
             
             {/*<Col lg={{ span: 10, offset: 1 }} md={{ span: 10, offset: 1 }}>*/}
@@ -24,7 +24,7 @@ export class ProjectsSection extends Component{
                         <div class="row d-flex justify-content-around no-gutters">
                                         
                             {/* crayon face*/}
-                                <Col lg={4} md={4} sm={8} xs={10}>                                    
+                                <Col lg={4} md={4} sm={10} xs={10}>                                    
                                     <div class="project-element-spacing">
             
                                             <div class="flex-container">
@@ -38,7 +38,7 @@ export class ProjectsSection extends Component{
                                 </Col>
             
                             {/* crayon face*/}
-                                <Col lg={4} md={4} sm={8} xs={10}>                                    
+                                <Col lg={4} md={4} sm={10} xs={10}>                                    
                                     <div class="project-element-spacing">
             
                                             <div class="flex-container">
@@ -53,7 +53,7 @@ export class ProjectsSection extends Component{
                                 </Col>
             
                             {/* crayon face*/}
-                                <Col lg={4} md={4} sm={8} xs={10}>                                    
+                                <Col lg={4} md={4} sm={10} xs={10}>                                    
                                     <div class="project-element-spacing">
             
                                             <div class="flex-container">

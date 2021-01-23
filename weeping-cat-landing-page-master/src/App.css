@@ -2,7 +2,7 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: black;  
+  background-color: #121212;  
 }
 
 .App-logo {
@@ -26,6 +26,10 @@
 } 
 
 .top-padding{
+    padding-top: 5%;
+}
+
+.bottom-padding{
     padding-top: 15%;
 }
 
@@ -45,4 +49,8 @@
 .test-alt {
    border-style: solid;
    border-color: orangered;
+}
+
+html {
+  scroll-behavior: smooth;
 }
