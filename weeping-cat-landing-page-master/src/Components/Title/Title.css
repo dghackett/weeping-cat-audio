@@ -2,6 +2,7 @@
     width: 75%; 
     height: 75%;
     margin-left: 12.5%;
+    width: 200px;
 }
 
 .title-name-container{ 
@@ -12,4 +13,24 @@
 .title-text{
     color: ghostwhite;
     text-align: center;
+}
+
+.center-element {
+  display:flex; /*<-- allows the magic*/
+  margin:auto;
+  align-items:center; /*<-- the magic*/
+  justify-content:center; /*<-- more magic*/
+}
+
+.title-image {
+    width: 125px;
+}
+
+.flex-container{
+    display:flex;
+    flex-direction:column;
+}
+
+.title-section-padding{
+    padding-top: 10%;
 }

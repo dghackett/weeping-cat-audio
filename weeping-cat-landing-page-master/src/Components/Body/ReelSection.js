@@ -10,7 +10,7 @@ export class ReelSection extends Component{
         return(
             <div class="white-text reel-section-padding">
             
-            <h4 class="header">SHOWREEL</h4>           
+            <p class="header header-font">SHOWREEL</p>           
 
             <div class="reels-container">
             <div class="container">
@@ -18,6 +18,8 @@ export class ReelSection extends Component{
                 <iframe src="https://player.vimeo.com/video/391396213" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
             </div></a>
             </div>
+            
+            <div class="reel-separation"></div>
             
             <div class="container">
             <div class="videoWrapper">

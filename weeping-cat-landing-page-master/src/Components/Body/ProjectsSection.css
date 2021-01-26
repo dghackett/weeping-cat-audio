@@ -31,21 +31,22 @@
 }
 
 a:link {
-    color: white;
+    color: ghostwhite;
     text-decoration: underline;
 }
 
 a:visited {
-    color: white;
+    color: ghostwhite;
     text-decoration: underline;
 }
 
-a:hover {
-    color: white;
+.link:hover {
+    color: lightgray;
     text-decoration: underline;
 }
+
 
 a:active {
-    color: white;
+    color: ghostwhite;
     text-decoration: underline;
 }

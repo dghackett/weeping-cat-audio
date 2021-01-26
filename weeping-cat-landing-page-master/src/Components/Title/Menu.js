@@ -9,14 +9,14 @@ export class Menu extends Component{
         return(
             <div class="menu-padding white-text">
             <Container>
-                        <div class="row d-flex justify-content-around no-gutters">
+                        <div class="row d-flex justify-content-center">
                         
                         {/* <div>|</div> */}
-                        <div><a href="#showreel">SHOWREEL</a></div>
+                        <div class="item-padding"><a href="#showreel" className="link">SHOWREEL</a></div>
                         <div>|</div>
-                        <div><a href="#projects">PROJECTS</a></div>
+                        <div class="item-padding"><a href="#projects" className="link">PROJECTS</a></div>
                         <div>|</div>
-                        <div><a href="#about-me">ABOUT ME</a></div>
+                        <div class="item-padding"><a href="#about-me" className="link">ABOUT ME</a></div>
                         {/* <div>|</div> */}
             </div>
             </Container>

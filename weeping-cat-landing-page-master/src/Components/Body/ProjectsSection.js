@@ -12,7 +12,7 @@ export class ProjectsSection extends Component{
         return(
             <div class="white-text project-section-padding">
             
-                <h4 class="header">PROJECTS</h4>            
+                <h4 class="header header-font">PROJECTS</h4>            
             
             
             {/*<Col lg={{ span: 10, offset: 1 }} md={{ span: 10, offset: 1 }}>*/}
@@ -31,7 +31,7 @@ export class ProjectsSection extends Component{
                                             <div class="center-element">
                                             <img src={orbit} alt="orbit" className="project-image"/> 
                                             </div>
-                                            <div class="text-block"><h6>Orbit (2020)</h6> <br></br> <a href="https://calcruikshank.itch.io/orb-it" target="blank">itch.io</a> <br></br> sound design</div>
+                                            <div class="text-block"><h6>Orbit (2020)</h6> <br></br> <a href="https://calcruikshank.itch.io/orb-it" target="blank" className="link">itch.io</a> <br></br> sound design</div>
                                             
                                         </div>
                                     </div>
@@ -45,7 +45,7 @@ export class ProjectsSection extends Component{
                                             <div class="center-element">
                                             <img src={crayonFace} alt="crayonFace" className="project-image"/> 
                                             </div>
-                                            <div class="text-block"><h6>Crayon Face (2020)</h6> <br></br> <a href="https://apps.apple.com/us/app/crayon-face/id1485684532" target="blank">iOS</a>, <a href="https://play.google.com/store/apps/details?id=com.hecticStudios.CrayonFaces" target="blank">Android</a> <br></br> music, sound design, Wwise implementation</div>
+                                            <div class="text-block"><h6>Crayon Face (2020)</h6> <br></br> <a href="https://apps.apple.com/us/app/crayon-face/id1485684532" target="blank" className="link">iOS</a>, <a href="https://play.google.com/store/apps/details?id=com.hecticStudios.CrayonFaces" target="blank" className="link">Android</a> <br></br> music, sound design, Wwise implementation</div>
                                             
             
                                         </div>
@@ -60,7 +60,7 @@ export class ProjectsSection extends Component{
                                             <div class="center-element">
                                             <img src={mubu} alt="mubu" className="project-image"/>  
                                             </div>
-                                            <div class="text-block"><h6>Makeup Breakup (2020)</h6> <br></br> <a href="https://apps.apple.com/us/app/makeup-breakup/id1498274784?ls=1" target="blank">iOS</a>, <a href="https://play.google.com/store/apps/details?id=com.BestTeamNA.MakeUpBreakUp" target="blank">Android</a> <br></br> music, sound design</div>
+                                            <div class="text-block"><h6>Makeup Breakup (2020)</h6> <br></br> <a href="https://apps.apple.com/us/app/makeup-breakup/id1498274784?ls=1" target="blank" className="link">iOS</a>, <a href="https://play.google.com/store/apps/details?id=com.BestTeamNA.MakeUpBreakUp" target="blank" className="link">Android</a> <br></br> music, sound design</div>
                                             
             
                                         </div>

@@ -1,3 +1,29 @@
 .menu-padding{
-    padding-top: 5%;
+    padding-top: 1.5%;
+}
+
+.item-padding{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+a:link {
+    color: ghostwhite;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: ghostwhite;
+    text-decoration: underline;
+}
+
+.link:hover {
+    color: skyblue;
+    text-decoration: underline;
+}
+
+
+a:active {
+    color: ghostwhite;
+    text-decoration: underline;
 }
