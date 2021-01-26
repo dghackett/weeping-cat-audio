@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/weeping-cat-audio-landing-page/precache-manifest.ff9b443e7631adafc3508df0321ca227.js"
+  "/weeping-cat-audio-landing-page/precache-manifest.3e68b290e1bc20232d527eabe411719b.js"
 );
 
 self.addEventListener('message', (event) => {
