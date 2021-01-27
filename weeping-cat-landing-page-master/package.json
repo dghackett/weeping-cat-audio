@@ -1,5 +1,5 @@
 {
-  "homepage": "http://dghackett.github.io/weeping-cat-audio",
+  "homepage": "http://weepingcataudio.com",
   "name": "weeping-cat-audio",
   "version": "0.1.0",
   "private": true,
@@ -16,8 +16,8 @@
     "styled-components": "^4.4.1"
   },
   "scripts": {
-      "predeploy": "npm run build",
-      "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
