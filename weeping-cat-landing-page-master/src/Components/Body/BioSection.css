@@ -21,8 +21,9 @@
 }
 
 .adjust-margin {
-    margin-right: 5%;
-    margin-left: 5%;
+    /* didn't fix the problem of text overflowing off screen on iOS as I'd hoped*/
+    /*margin-right: 5%;
+    margin-left: 5%;*/
 }
 
 .grayscale-img {
