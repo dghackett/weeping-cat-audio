@@ -12,8 +12,7 @@ export class BioSection extends Component{
             
                 <h4 class="header header-font">ABOUT ME</h4>
                 
-            <div class="bio-padding">
-            <div>
+            <div class="bio-padding adjust-margin">
             <div class="container">
         <div class="row d-flex justify-content-center no-gutters">
           
@@ -24,7 +23,7 @@ export class BioSection extends Component{
             </div>
           </Col>
   
-          {/* Description...TODO: vertically center text */}
+          {/* Description*/}
           <Col lg={4} md={"auto"} sm={6} xs={6} className="d-flex">
                         <div class="align-self-center center-element">
             <div>Hello! I'm Dylan Hackett-Murgas and I do sound, music, and audio implementation for games as Weeping Cat Audio. Currently based in San Diego, Ca. Reach me at <a href="mailto:weepingcataudio@gmail.com" target="_blank" className="link" rel="noopener">weepingcataudio@gmail.com</a> to get in touch.</div> 
@@ -32,7 +31,6 @@ export class BioSection extends Component{
           </Col>
             </div>
         </div>
-      </div>
             </div>
             </div>
         );

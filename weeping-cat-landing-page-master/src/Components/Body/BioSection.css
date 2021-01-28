@@ -20,6 +20,11 @@
     padding-top: 10%;
 }
 
+.adjust-margin {
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
 .grayscale-img {
   filter: gray; /* IE6-9 */
   -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
