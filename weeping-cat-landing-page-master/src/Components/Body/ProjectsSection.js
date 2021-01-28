@@ -31,7 +31,7 @@ export class ProjectsSection extends Component{
                                             <div class="center-element">
                                             <img src={orbit} alt="orbit" className="project-image"/> 
                                             </div>
-                                            <div class="text-block"><h6>Orbit (2020)</h6> <br></br> <a href="https://calcruikshank.itch.io/orb-it" target="blank" className="link">itch.io</a> <br></br> sound design</div>
+                                            <div class="text-block"><h6>Orbit (2020)</h6> <br></br> <a href="https://calcruikshank.itch.io/orb-it" target="blank" className="link">itch.io</a> <br></br>sound design, audio programming</div>
                                             
                                         </div>
                                     </div>
@@ -60,7 +60,7 @@ export class ProjectsSection extends Component{
                                             <div class="center-element">
                                             <img src={mubu} alt="mubu" className="project-image"/>  
                                             </div>
-                                            <div class="text-block"><h6>Makeup Breakup (2020)</h6> <br></br> <a href="https://apps.apple.com/us/app/makeup-breakup/id1498274784?ls=1" target="blank" className="link">iOS</a>, <a href="https://play.google.com/store/apps/details?id=com.BestTeamNA.MakeUpBreakUp" target="blank" className="link">Android</a> <br></br> music, sound design</div>
+                                            <div class="text-block"><h6>Makeup Breakup (2020)</h6> <br></br> <a href="https://apps.apple.com/us/app/makeup-breakup/id1498274784?ls=1" target="blank" className="link">iOS</a>, <a href="https://play.google.com/store/apps/details?id=com.BestTeamNA.MakeUpBreakUp" target="blank" className="link">Android</a> <br></br> music, sound design, audio programming</div>
                                             
             
                                         </div>
