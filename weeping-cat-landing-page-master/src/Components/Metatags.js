@@ -8,7 +8,7 @@ export class Metatags extends React.Component{
         <div className="wrapper">
           <MetaTags>
             <title>Weeping Cat Audio</title>
-            <meta name="description" content="San Diego-based sound designer, game audio programmer, and composer. Dylan Hackett-Murgas." />
+            <meta name="description" content="Sound design, music, and game audio implementation based out of San Diego, California." />
             <meta property="og:title" content="Weeping Cat Audio" />
             <meta property="og:image" content="../../images/WeepingCatTitle/weepingcatlogo_x4_white.png" />
           </MetaTags>
