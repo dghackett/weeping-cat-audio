@@ -9,18 +9,18 @@ import { ProjectsSection } from "./Components/Body/ProjectsSection.js";
 import { BioSection } from "./Components/Body/BioSection.js";
 import { Socials } from "./Components/Socials/Socials.js";
 import { Menu } from "./Components/Title/Menu.js";
-import { Header } from "./Components/Header.js";
+import { Metatags } from "./Components/Metatags.js";
 import { Container, Col, Row } from "react-bootstrap";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-                  <Header />
       </header>
       {/* <div>
         <Socials />
       </div> */}
+            <Metatags />
             <Title className="top" />
             <Menu/>
             <a id=""><ReelSection /></a>
