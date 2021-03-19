@@ -1,32 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.57efd40f.chunk.css",
-    "main.js": "/static/js/main.78d5628c.chunk.js",
-    "main.js.map": "/static/js/main.78d5628c.chunk.js.map",
+    "main.css": "/static/css/main.8a84ef89.chunk.css",
+    "main.js": "/static/js/main.491bf0bb.chunk.js",
+    "main.js.map": "/static/js/main.491bf0bb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba32c94c.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba32c94c.js.map",
     "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.3110dd5c.chunk.js": "/static/js/2.3110dd5c.chunk.js",
-    "static/js/2.3110dd5c.chunk.js.map": "/static/js/2.3110dd5c.chunk.js.map",
+    "static/js/2.2c17dbef.chunk.js": "/static/js/2.2c17dbef.chunk.js",
+    "static/js/2.2c17dbef.chunk.js.map": "/static/js/2.2c17dbef.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bfee97a26153a3ede46f2b0f6c2e332a.js": "/precache-manifest.bfee97a26153a3ede46f2b0f6c2e332a.js",
+    "precache-manifest.93070e823349b44685dd7c4e267ed915.js": "/precache-manifest.93070e823349b44685dd7c4e267ed915.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.57efd40f.chunk.css.map": "/static/css/main.57efd40f.chunk.css.map",
-    "static/media/2020_dylan_hackett_portrait_001.png": "/static/media/2020_dylan_hackett_portrait_001.8fb84711.png",
+    "static/css/main.8a84ef89.chunk.css.map": "/static/css/main.8a84ef89.chunk.css.map",
     "static/media/Instagram_Social_Icon_Circle_BW.png": "/static/media/Instagram_Social_Icon_Circle_BW.9b3334eb.png",
     "static/media/Tumblr_Social_Icon_Circle_BW.png": "/static/media/Tumblr_Social_Icon_Circle_BW.546254f6.png",
     "static/media/Twitter_Social_Icon_Circle_BW.png": "/static/media/Twitter_Social_Icon_Circle_BW.48eec265.png",
-    "static/media/project_image_crayonface_rounded_428x428.png": "/static/media/project_image_crayonface_rounded_428x428.cf647924.png",
-    "static/media/project_image_mubu.png": "/static/media/project_image_mubu.257af554.png",
-    "static/media/project_image_orbit_rounded.png": "/static/media/project_image_orbit_rounded.c68c7cd9.png",
-    "static/media/weepingcatlogo_x4_white.png": "/static/media/weepingcatlogo_x4_white.9297a7dd.png"
+    "static/media/crayonface_clip.gif": "/static/media/crayonface_clip.d80ec0fb.gif",
+    "static/media/discord.png": "/static/media/discord.2823f83d.png",
+    "static/media/linkedin.png": "/static/media/linkedin.898c0407.png",
+    "static/media/mubu_clip.gif": "/static/media/mubu_clip.20f8be6c.gif",
+    "static/media/orbit_clip.gif": "/static/media/orbit_clip.03007667.gif",
+    "static/media/profile_simple.png": "/static/media/profile_simple.f4b3aecb.png",
+    "static/media/three-stars_reposition.png": "/static/media/three-stars_reposition.5ea27514.png",
+    "static/media/weepingcatheader_reposition.png": "/static/media/weepingcatheader_reposition.941c9fb1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ba32c94c.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.3110dd5c.chunk.js",
-    "static/css/main.57efd40f.chunk.css",
-    "static/js/main.78d5628c.chunk.js"
+    "static/js/2.2c17dbef.chunk.js",
+    "static/css/main.8a84ef89.chunk.css",
+    "static/js/main.491bf0bb.chunk.js"
   ]
 }
