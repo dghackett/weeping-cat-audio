@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,500;0,800;1,600&display=swap');
-    
+
+/*.container {
+  margin-right : 0 !important;
+  margin-left : 0 !important;
+  padding-right : 0 !important;
+  padding-left : 0 !important;
+}*/
+
 .header-font{
     font-family: 'Work Sans', sans-serif;
     letter-spacing:0.2em;
@@ -18,8 +25,17 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: #121212; 
+  background-color: white; 
     overflow: auto;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+@media screen and (max-width: 1000px) {
+  .small-screen {
+   margin-right: 2.5%;
+   margin-left: 2.5%;
+  }
 }
 
 .App-logo {
@@ -58,6 +74,22 @@
     text-align: center;
 }
 
+@media all and (max-width: 1200px) { /* screen size until 1200px */
+    .header {
+        font-size: 2em; /* 1.5x default size */
+    }
+}
+@media all and (max-width: 1000px) { /* screen size until 1000px */
+    .header {
+        font-size: 1.6em; /* 1.2x default size */
+        }
+    }
+@media all and (max-width: 500px) { /* screen size until 500px */
+    .header {
+        font-size: 1.2em; /* 0.8x default size */
+        }
+    }
+
 .test {
     border-style: solid;
     border-color: skyblue;
@@ -66,6 +98,11 @@
 .test-alt {
    border-style: solid;
    border-color: orangered;
+}
+
+.border {
+    border-style: solid;
+   border-color: black;
 }
 
 html {

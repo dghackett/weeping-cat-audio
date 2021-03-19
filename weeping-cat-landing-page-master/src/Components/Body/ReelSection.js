@@ -19,13 +19,14 @@ export class ReelSection extends Component{
             </div></a>
             </div>
             
-            <div class="reel-separation"></div>
+            {/* <div class="reel-separation"></div>
             
             <div class="container">
             <div class="videoWrapper">
                 <iframe src="https://player.vimeo.com/video/433003591" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
             </div>
-            </div>
+            </div> */} 
+            
             </div>
             </div>
         );

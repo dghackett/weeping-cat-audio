@@ -1,19 +1,15 @@
 .socials-container{ 
     
-    margin-top: 2%;
+    /*margin-top: 2%;
     margin-left: 2%;
     margin-bottom: 40px;
-    float: left;
+    float: center;*/
 }
 
 .socials-icons{ 
     
-    height: 5%;
-    width: 5%;
-    max-height: 256px;
-    max-width: 256px;
-    min-height: 32px;
-    min-width: 32px;
-    margin-right: 3%;
-    
+    width: 60px;
+    height: 60px;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
 }

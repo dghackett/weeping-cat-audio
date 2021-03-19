@@ -1,0 +1,45 @@
+.portrait-image {
+    width: 75%;
+}
+
+.center-element {
+  display:flex; /*<-- allows the magic*/
+  margin:auto;
+  /*align-items:center;*/ /*<-- the magic*/
+  justify-content:center; /*<-- more magic*/
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;    
+}
+
+.bio-padding {
+    padding-top: 2.5%;
+    padding-bottom: 5%;
+}
+
+.socials-padding {
+    margin-top: 10%;
+}
+
+.bio-text {
+    text-align: center;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.socials {
+   width: 10%;
+}
+
+.adjust-margin {
+    /* didn't fix the problem of text overflowing off screen on iOS as I'd hoped*/
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+}
+
+.grayscale-img {
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+}
