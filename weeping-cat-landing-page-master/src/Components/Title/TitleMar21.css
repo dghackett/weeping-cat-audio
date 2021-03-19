@@ -4,6 +4,12 @@
     margin-right: 2.5%;
 }
 
+    .shrink-stars {
+        width: 27%;
+        min-width: 75px;
+        margin-top: 1.5%;
+    }
+
 @media all and (max-width: 1200px) { /* screen size until 1200px */
     .shrink-stars {
         width: 27%;
