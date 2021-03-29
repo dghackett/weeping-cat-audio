@@ -6,6 +6,7 @@ import { Container, Col, Row } from "react-bootstrap";
 import orbit from '../../images/Projects/orbit_clip.gif';
 import crayonFace from '../../images/Projects/crayonface_clip.gif';
 import mubu from '../../images/Projects/mubu_clip.gif';
+import goatstory from '../../images/Projects/goatstory_clip.gif'
 
 export class ProjectsSectionMar21 extends Component{ 
     render(){
@@ -23,8 +24,23 @@ export class ProjectsSectionMar21 extends Component{
                           
             <div class="container-fluid">
                         <div class="row d-flex justify-content-around no-gutters">
+            
+            
+                            {/* goatstory */}
+                                <Col lg={4} md={5} sm={5} xs={12}>                                    
+                                    <div class="project-element-spacing">
+            
+                                            <div class="flex-container">
+                                            <div class="center-element">
+                                            <img src={goatstory} alt="goatstory" className="project-image"/> 
+                                            </div>
+                                            <div class="text-block"><h6>GoatStory (In Development)</h6> <a href="https://twitter.com/hunterahackett" target="blank" className="link">GoatStory</a> <br></br>music, sound design, audio programming, gameplay trailer</div>
+                                            
+                                        </div>
+                                    </div>
+                                </Col>
                                         
-                            {/* crayon face*/}
+                            {/* orbit*/}
                                 <Col lg={4} md={5} sm={5} xs={12}>                                    
                                     <div class="project-element-spacing">
             
@@ -53,7 +69,7 @@ export class ProjectsSectionMar21 extends Component{
                                     </div>
                                 </Col>
             
-                            {/* crayon face*/}
+                            {/* mubu*/}
                                 <Col lg={4} md={5} sm={5} xs={12}>                                    
                                     <div class="project-element-spacing">
             

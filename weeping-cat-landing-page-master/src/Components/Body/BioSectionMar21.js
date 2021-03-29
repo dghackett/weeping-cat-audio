@@ -47,7 +47,7 @@ export class BioSectionMar21 extends Component{
             <div class="d-flex flex-row justify-content-center col">            
             
             <div class="socials-icons center-element">
-            <a href="weepingcataudio@gmail.com" target="_blank">
+            <a href="" target="_blank">
             <img
             src={gmail}
             alt="gmail"
