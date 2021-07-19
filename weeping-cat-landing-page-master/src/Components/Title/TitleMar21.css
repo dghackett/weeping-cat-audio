@@ -41,7 +41,7 @@
         }
     }
 
-@media all and (max-width: 450px) { /* screen size until 500px */
+@media all and (max-width: 450px) { /* screen size until 450px */
     .shrink-stars {
         width: 27%;
         min-width: 65px;
