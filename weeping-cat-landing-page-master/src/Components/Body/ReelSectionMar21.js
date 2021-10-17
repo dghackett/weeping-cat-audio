@@ -16,9 +16,9 @@ export class ReelSectionMar21 extends Component{
                 <iframe src="https://player.vimeo.com/video/391396213?byline=false&title=false" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
             </div></a>
             
-            <a id=""><div class="videoWrapper">
+            {/* <a id=""><div class="videoWrapper">
                 <iframe src="https://player.vimeo.com/video/530552575?byline=false&title=false" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen " allowfullscreen title="GoatStory - Gameplay Trailer"></iframe>
-            </div></a>
+            </div></a> */}
             
             </div>
             </div>

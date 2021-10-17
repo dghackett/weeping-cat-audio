@@ -4,6 +4,33 @@
     margin-right: 2.5%;
 }
 
+.title-margins {
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.logo-margins {
+    margin-top: 2.5%;
+    margin-left: 0%;
+    margin-right: 0%; 
+}
+
+.bio {
+    
+    margin-left: 15%;
+    margin-right: 15%; 
+    text-align: center;
+}
+
+.center-element {
+  display:flex; /*<-- allows the magic*/
+  margin:auto;
+  /*align-items:center;*/ /*<-- the magic*/
+  justify-content:center; /*<-- more magic*/
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;    
+}
+
     .shrink-stars {
         width: 27%;
         min-width: 75px;

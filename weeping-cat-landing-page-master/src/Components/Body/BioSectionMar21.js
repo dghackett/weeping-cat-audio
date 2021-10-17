@@ -33,7 +33,7 @@ export class BioSectionMar21 extends Component{
           <Col className="align-self-center">
             <div class="row d-flex justify-content-center bio-text">
                         <div class="col">
-            <div class="bio-text"><h8>Hello! I'm Dylan. I do sound, music, and audio implementation for games as Weeping Cat Audio. Currently based in San Diego, Ca. Reach me at <a href="mailto:weepingcataudio@gmail.com" target="_blank" className="link" rel="noopener">weepingcataudio@gmail.com</a> or anywhere below to get in touch. Discord: weepingcat#9636.</h8></div> 
+            <div class="bio-text"><h8>Thanks for visiting! I'd love to chat. Reach me at <a href="mailto:weepingcataudio@gmail.com" target="_blank" className="link" rel="noopener">weepingcataudio@gmail.com</a> or anywhere below to get in touch. Discord: weepingcat#9636.</h8></div> 
             </div>
            
             <div class="w-100"></div>
@@ -47,7 +47,7 @@ export class BioSectionMar21 extends Component{
             <div class="d-flex flex-row justify-content-center col">            
             
             <div class="socials-icons center-element">
-            <a href="" target="_blank">
+            <a href="mailto:weepingcataudio@gmail.com" target="_blank">
             <img
             src={gmail}
             alt="gmail"
