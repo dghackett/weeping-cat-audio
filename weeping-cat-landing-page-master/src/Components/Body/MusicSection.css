@@ -1,0 +1,40 @@
+.bandcamp-player {
+    
+    /*border: 0;*/
+    margin-left: 2.5%;
+    margin-right: 0%;
+    min-width: 100px;
+    width: 450px;
+    height: 120px;
+    /*min-width: 700px;*/
+    /*height: 120px;*/
+    
+}
+
+.music-section-padding{
+    padding-top: 3%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.music-module-padding{
+    padding-top: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.center-element {
+  display:flex; 
+  margin:auto;
+  align-items:center; 
+  justify-content:center; 
+}
+
+.flex-container{
+    display:flex;
+    flex-direction:column;
+}
+
+.bandcamp-player-height {
+    min-height: 470px;
+}
