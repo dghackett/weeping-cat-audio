@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.399b29ba.chunk.css",
-    "main.js": "/static/js/main.8617b3d6.chunk.js",
-    "main.js.map": "/static/js/main.8617b3d6.chunk.js.map",
+    "main.css": "/static/css/main.27d54db4.chunk.css",
+    "main.js": "/static/js/main.e7ffe421.chunk.js",
+    "main.js.map": "/static/js/main.e7ffe421.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba32c94c.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba32c94c.js.map",
     "static/css/2.84b3ebfc.chunk.css": "/static/css/2.84b3ebfc.chunk.css",
-    "static/js/2.0f504c4a.chunk.js": "/static/js/2.0f504c4a.chunk.js",
-    "static/js/2.0f504c4a.chunk.js.map": "/static/js/2.0f504c4a.chunk.js.map",
+    "static/js/2.c3052329.chunk.js": "/static/js/2.c3052329.chunk.js",
+    "static/js/2.c3052329.chunk.js.map": "/static/js/2.c3052329.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.998781199198fb6c86f2a16bd02717f0.js": "/precache-manifest.998781199198fb6c86f2a16bd02717f0.js",
+    "precache-manifest.06cf621a08aac06d202dd505d12e042e.js": "/precache-manifest.06cf621a08aac06d202dd505d12e042e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.84b3ebfc.chunk.css.map": "/static/css/2.84b3ebfc.chunk.css.map",
-    "static/css/main.399b29ba.chunk.css.map": "/static/css/main.399b29ba.chunk.css.map",
+    "static/css/main.27d54db4.chunk.css.map": "/static/css/main.27d54db4.chunk.css.map",
     "static/media/Instagram_Social_Icon_Circle_BW.png": "/static/media/Instagram_Social_Icon_Circle_BW.9b3334eb.png",
+    "static/media/Profile_Julian_color_1.PNG": "/static/media/Profile_Julian_color_1.73bf50fb.PNG",
     "static/media/Tumblr_Social_Icon_Circle_BW.png": "/static/media/Tumblr_Social_Icon_Circle_BW.546254f6.png",
     "static/media/Twitter_Social_Icon_Circle_BW.png": "/static/media/Twitter_Social_Icon_Circle_BW.48eec265.png",
     "static/media/crayonface_clip.gif": "/static/media/crayonface_clip.d80ec0fb.gif",
@@ -23,15 +24,14 @@
     "static/media/mubu_clip.gif": "/static/media/mubu_clip.20f8be6c.gif",
     "static/media/orbit_clip.gif": "/static/media/orbit_clip.03007667.gif",
     "static/media/pillowfort_clip.gif": "/static/media/pillowfort_clip.8b1c7124.gif",
-    "static/media/profile_simple.png": "/static/media/profile_simple.f4b3aecb.png",
     "static/media/three-stars_reposition.png": "/static/media/three-stars_reposition.5ea27514.png",
     "static/media/weepingcatheader_Jul2021.png": "/static/media/weepingcatheader_Jul2021.75758ca4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ba32c94c.js",
     "static/css/2.84b3ebfc.chunk.css",
-    "static/js/2.0f504c4a.chunk.js",
-    "static/css/main.399b29ba.chunk.css",
-    "static/js/main.8617b3d6.chunk.js"
+    "static/js/2.c3052329.chunk.js",
+    "static/css/main.27d54db4.chunk.css",
+    "static/js/main.e7ffe421.chunk.js"
   ]
 }
