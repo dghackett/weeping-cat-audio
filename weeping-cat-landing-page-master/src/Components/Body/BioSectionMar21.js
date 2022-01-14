@@ -4,7 +4,7 @@ import '../Socials/Socials.css';
 import React from 'react';
 import{ Component } from 'react'
 import { Container, Col, Row } from "react-bootstrap";
-import portrait from '../../images/Bio/profile_simple.png';
+import portrait from '../../images/Bio/Profile_Julian_color_1.PNG';
 import gmail from '../../images/SocialIcons/gmail.png';
 import instagram from '../../images/SocialIcons/Instagram_Social_Icon_Circle_BW.png';
 import twitter from '../../images/SocialIcons/Twitter_Social_Icon_Circle_BW.png';
@@ -33,7 +33,7 @@ export class BioSectionMar21 extends Component{
           <Col className="align-self-center">
             <div class="row d-flex justify-content-center bio-text">
                         <div class="col">
-            <div class="bio-text"><h8>Thanks for visiting! I'd love to chat. Reach me at <a href="mailto:weepingcataudio@gmail.com" target="_blank" className="link" rel="noopener">weepingcataudio@gmail.com</a> or anywhere below to get in touch. Discord: weepingcat#9636.</h8></div> 
+            <div class="bio-text"><p>Hello! I'm Dylan Hackett-Murgas a.k.a. Weeping Cat Audio. I do sound, music, and audio implementation for games inspired a ton by Nintendo and Square Enix. Thanks for visiting! Reach me at <a href="mailto:weepingcataudio@gmail.com" target="_blank" className="link" rel="noopener">weepingcataudio@gmail.com</a> or anywhere below to get in touch. Discord: weepingcat#9636.</p></div> 
             </div>
            
             <div class="w-100"></div>

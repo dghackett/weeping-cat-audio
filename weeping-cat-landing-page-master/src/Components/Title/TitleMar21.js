@@ -25,7 +25,7 @@ export class TitleMar21 extends Component{
 </div>
             </div>*/}
             
-            <Container>
+        {/*    <Container>
   <Row>
             <div class="logo-margins">
             <img src={weepingCatHeader} alt="weepingCatHeader" className="img-fluid"/> 
@@ -39,7 +39,7 @@ export class TitleMar21 extends Component{
             </div>
             </div>
   </Row>
-</Container>
+</Container> */}
             
             
             </div>

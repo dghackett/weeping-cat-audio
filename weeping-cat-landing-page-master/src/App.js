@@ -22,7 +22,7 @@ function App() {
         <Socials />
       </div> */}
             <Metatags />
-            <TitleMar21/>
+            <TitleMar21/> 
       {/*<Menu/>*/}
             <a id=""><ReelSectionMar21 /></a>
             <a id="projects"><ProjectsSectionMar21 /></a>
